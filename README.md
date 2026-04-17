@@ -3,7 +3,7 @@
 This project explains code using AI.
 
 ## 🚀 Live Demo
-👉 https://huggingface.co/spaces/Fersu/code-explainer
+👉 https://fersu-code-explainer.hf.space
 ## 📌 Features
 - Beginner-friendly explanations
 - Code breakdown
